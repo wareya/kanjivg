@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!--
 Copyright (C) 2009/2010/2011 Ulrich Apel.
 This work is distributed under the conditions of the Creative Commons
@@ -16,33 +16,81 @@ Under the following conditions:
 
 See http://creativecommons.org/licenses/by-sa/3.0/ for more details.
 -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
-<!ATTLIST g
-xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
-kvg:element CDATA #IMPLIED
-kvg:variant CDATA #IMPLIED
-kvg:partial CDATA #IMPLIED
-kvg:original CDATA #IMPLIED
-kvg:part CDATA #IMPLIED
-kvg:number CDATA #IMPLIED
-kvg:tradForm CDATA #IMPLIED
-kvg:radicalForm CDATA #IMPLIED
-kvg:position CDATA #IMPLIED
-kvg:radical CDATA #IMPLIED
-kvg:phon CDATA #IMPLIED >
-<!ATTLIST path
-xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
-kvg:type CDATA #IMPLIED >
-]>
-<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
-<g id="kvg:StrokePaths_0308a" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
-<g id="kvg:0308a">
-	<path id="kvg:0308a-s1" d="M38.75,25.25c1.25,1.5,2.24,4.03,1.62,6.62c-2.88,12.13-6.29,29.65-4.25,42.38c2,12.5,1.75-0.75,5.62-6.25"/>
-	<path id="kvg:0308a-s2" d="M69.37,18.75c2.25,2.12,2.88,4.12,2.88,6.5c0,2.38,0,26.38,0,35.75c0,16.5-5,25.75-12.62,33.12"/>
-</g>
-</g>
-<g id="kvg:StrokeNumbers_0308a" style="font-size:8;fill:#808080">
-	<text transform="matrix(1 0 0 1 30.37 25)">1</text>
-	<text transform="matrix(1 0 0 1 61.62 17)">2</text>
-</g>
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="109"
+   height="109"
+   viewBox="0 0 109 109"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="0308a.svg">
+  <metadata
+     id="metadata17">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs15" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview13"
+     showgrid="false"
+     inkscape:zoom="2.1651376"
+     inkscape:cx="53.203583"
+     inkscape:cy="64.923574"
+     inkscape:window-x="735"
+     inkscape:window-y="262"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="kvg:StrokeNumbers_0308a" />
+  <g
+     id="kvg:StrokePaths_0308a"
+     style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
+    <g
+       id="kvg:0308a">
+      <path
+         id="kvg:0308a-s1"
+         d="m 36.790475,25.25 c 0,0 1.316271,2.875339 0.696271,5.465339 -2.187203,13.515593 -1.020773,26.712352 0.879744,39.463922 1.617379,-7.346574 3.676701,-12.20377 6.121486,-17.855459"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccc" />
+      <path
+         id="kvg:0308a-s2"
+         d="m 63.244082,35.485203 c 1.483162,-1.773437 3.945824,-2.107111 5.126491,0.334461 C 71.629954,42.559933 72.25,49.083333 72.25,61 c 0,16.5 -5,25.75 -12.62,33.12"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cssc" />
+    </g>
+  </g>
+  <g
+     id="kvg:StrokeNumbers_0308a"
+     style="font-size:8;fill:#808080">
+    <text
+       transform="matrix(1 0 0 1 30.37 25)"
+       id="text9">1</text>
+    <text
+       id="text11"
+       x="55.414837"
+       y="34.799015">2</text>
+  </g>
 </svg>
